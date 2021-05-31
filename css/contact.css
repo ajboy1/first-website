@@ -1,15 +1,42 @@
+.a{
+    display: inline;
+    position: relative;
+    left: 820px;
+    bottom: 90px;
+    font-size: large;
+
+}
+
+
+.c{
+    display: inline;
+    position: relative;
+    left: 840px;
+    bottom: 90px;
+    font-size: large;
+}
+
+.h{
+    display: inline;
+    position: relative;
+    left: 800px;
+    bottom: 90px;
+    font-size: large;
+    
+}
+/* 
 .contact{
     text-align: center;
     margin: 60px auto 60px auto;
     padding: 10px 10px 10px 10px;
-    font-size: xxx-large;
-}
+    font-size: xx-large;
+} */
 
 
 .form{
     float: right;
     position: relative;
-    right: 15%;
+    right: 10%;
     line-height: 3;
     width: 30%;
 }
@@ -19,14 +46,31 @@
     margin: 100px 100px 100px 100px;
     float: left;
     position:relative;
-    left: 14%;
+    left: 10%;
     bottom: 120px;
     line-height: 2;
 
     
 }
 
-.logo{
-    width: 50%;
+.logo1{
+    height: 188px;
+    width: 250px;
+    
+}
+
+.logo2{
+    width: 130px;
+    height: 100px;
     text-align: center;
+    position: relative;
+    top: 340px;
+}
+
+.small-logo{
+    width: 20%;
+    position: relative;
+    left: 80%;
+    bottom: 120px;
+
 }
