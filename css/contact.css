@@ -1,0 +1,32 @@
+.contact{
+    text-align: center;
+    margin: 60px auto 60px auto;
+    padding: 10px 10px 10px 10px;
+    font-size: xxx-large;
+}
+
+
+.form{
+    float: right;
+    position: relative;
+    right: 15%;
+    line-height: 3;
+    width: 30%;
+}
+
+.get-in-touch{
+    width: 30%;
+    margin: 100px 100px 100px 100px;
+    float: left;
+    position:relative;
+    left: 14%;
+    bottom: 120px;
+    line-height: 2;
+
+    
+}
+
+.logo{
+    width: 50%;
+    text-align: center;
+}
