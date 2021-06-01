@@ -8,8 +8,8 @@
 .a{
     display: inline;
     position: relative;
-    left: 820px;
-    bottom: 90px;
+    left: 51.25rem;
+    bottom: 5.625rem;
     font-size: large;
 
 }
@@ -30,16 +30,16 @@ a.upper-right:hover {
 .c{
     display: inline;
     position: relative;
-    left: 840px;
-    bottom: 90px;
+    left: 52.5rem;
+    bottom: 5.625rem;
     font-size: large;
 }
 
 .h{
     display: inline;
     position: relative;
-    left: 800px;
-    bottom: 90px;
+    left: 50rem;
+    bottom: 5.625rem;
     font-size: large;
     
 }
