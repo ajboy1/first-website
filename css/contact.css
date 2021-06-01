@@ -34,8 +34,25 @@ button {
     left: 800px;
     bottom: 90px;
     font-size: large;
-    
+        
 }
+
+a.upper-right:link {
+    color:#ff0000;
+    text-decoration:none;
+
+}
+a.upper-right:visited {
+    color:#000000;
+    text-decoration:none;
+
+}
+a.upper-right:hover {
+    text-decoration:none;
+    color: rgb(95, 233, 238);
+    border-block: 1px;
+}
+
 /* 
 .contact{
     text-align: center;
